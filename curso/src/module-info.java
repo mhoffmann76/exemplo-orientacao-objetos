@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mhoffmann
+ *
+ */
+module couse {
+}
